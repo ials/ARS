@@ -80,7 +80,7 @@ Earth Observing Fleet (January 2023)
 Open your notebook and write down if you agree or not with each of the next statements
 
 ## Statement 1
-Satellites measure the reflectance of features on the ground
+Multispectral satellite sensors measure the reflectance of features on the ground
 
 ## Statement 2
 Land cover classification is a simple process of grouping  pixels based on spectral properties 
