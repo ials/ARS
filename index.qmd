@@ -15,9 +15,9 @@ format:
 # 🎯 Learning Objectives
 
 - Appraise the process of image analysis and its relation to research.
-- Understand the physical principles of optical and radar-based remote sensing. 
-- Distinguish the main steps for SAR images correction.
-- Apply advanced computational techniques  to obtain thematic information from Earth Observation data.
+- Dive deep into the physical principles of multispectral remote sensing. 
+- Distinguish the main principles of deep learning for Earth Observation data.
+- Apply AI techniques  to obtain thematic information from Earth Observation data.
 
 
 
@@ -25,7 +25,7 @@ format:
 
 **Select Academic Year/Term:**
 
-<a href="2024/index.qmd">
-    <button class="button-61">2024</button>
+<a href="2025/index.qmd">
+    <button class="button-61">2025</button>
 </a>
 
