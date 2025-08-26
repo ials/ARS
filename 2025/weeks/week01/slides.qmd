@@ -97,7 +97,7 @@ Square pixels in an image accurately represent a square area on the Earth's surf
 ## Atmospheric correction
 
 <p align="center">
-<img src="figs/Jensen_TOA.png" width=60% height=60%>
+<img src="figs/Jensen_TOA.png" width=54% height=54%>
 </p>
 
 # What we know about Python
@@ -126,7 +126,11 @@ Do any of these tasks:
 
 - [GEE Python tutorial](https://ials.github.io/GEE_Python/2_eeImage.html)
 
-## Read [Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JD009662)
+## Suggested Reading
+
+[Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JD009662)
+
+## [Back to this week page](page.qmd)
 
 
 
