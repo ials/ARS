@@ -1,14 +1,11 @@
 ---
-title: "🗓️ Unit 1 - Refresher on optical remote sensing"
+title: "🗓️ Unit 1 -  Optical Remote Sensing refresher"
 ---
 
-In this first unit, we will review basic remote sensing concepts:
+In this first unit, we will refresh  *surface reflectance*, the key optical remote sensing concept.
 
-- Electromagnetic radiation
-- Spatial resolution
-- Spectral resolution
-- Radiometric corrections
-- Satellite platforms & sensors
+Furthermore, we will introduce several concepts on Artificial Intelligence for Earth Observation (AI4EO).
+
 
 ## 👨‍🏫 Lecture Slides 
 
@@ -31,8 +28,10 @@ Use your keypad to navigate the slides.
 
 ## 📚 Recommended Reading
 
-- Check the end of slides for the list of references cited in the lecture.
+- Check the end of slides for key references.
 
 ## 📟 Communication
 
-- Get to know your peers in the course and organize study groups 
+- Get to know your peers in the course 
+
+- Organize your study group 

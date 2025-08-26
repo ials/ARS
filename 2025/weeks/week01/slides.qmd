@@ -97,7 +97,7 @@ Square pixels in an image accurately represent a square area on the Earth's surf
 ## Atmospheric correction
 
 <p align="center">
-<img src="figs/Jensen_TOA.png" width=50% height=50%>
+<img src="figs/Jensen_TOA.png" width=60% height=60%>
 </p>
 
 # What we know about Python
@@ -112,12 +112,22 @@ Square pixels in an image accurately represent a square area on the Earth's surf
 
 A flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking
 
+# Geospatial Foundation Models
+
+[IALS_GeoFM_for_EO](https://drive.google.com/file/d/19MsClFD6ueuvv6rOqFhQKbBeG8u3iMmh/view?usp=sharing)
+
 # To do before next class 
 
+## Refreshing GEE skills
 
-## Do [GEE Python tutorial](https://ials.github.io/GEE_Python/2_eeImage.html) and report your results
+Do any of these tasks:
+
+- [GEE JavaScript tutorial](https://ials.github.io/GEE-RIO/)
+
+- [GEE Python tutorial](https://ials.github.io/GEE_Python/2_eeImage.html)
 
 ## Read [Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JD009662)
+
 
 
 
