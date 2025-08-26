@@ -23,12 +23,10 @@ Use your keypad to navigate the slides.
 🚧  [Data Insights with Python for Beginners](https://jenfly.github.io/llc-python-resources/next-steps.html)
 🚧
 
-🚧  [GEE Image with Python](https://ials.github.io/GEE_Python/2_eeImage.html)
-🚧
 
-## 📚 Recommended Reading
+## 📚 Required Reading
 
-- Check the end of slides for key references.
+- Study this [document](https://drive.google.com/file/d/1P83rf9MDCVs71AjZsyBhGKYPcDwX96v4/view?usp=sharing) before next class. 
 
 ## 📟 Communication
 
