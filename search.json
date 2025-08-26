@@ -70,11 +70,11 @@
     "text": "Reading, doing and writing\nA flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking"
   },
   {
-    "objectID": "2025/weeks/week01/slides.html#do-gee-python-tutorial-and-report-your-results",
-    "href": "2025/weeks/week01/slides.html#do-gee-python-tutorial-and-report-your-results",
+    "objectID": "2025/weeks/week01/slides.html#refreshing-gee-skills",
+    "href": "2025/weeks/week01/slides.html#refreshing-gee-skills",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Do GEE Python tutorial and report your results",
-    "text": "Do GEE Python tutorial and report your results"
+    "section": "Refreshing GEE skills",
+    "text": "Refreshing GEE skills\nDo any of these tasks:\n\nGEE JavaScript tutorial\nGEE Python tutorial"
   },
   {
     "objectID": "2025/weeks/week01/slides.html#read-atmospheric-correction-for-the-monitoring-of-land-surfaces-vermote-kotchenova",
@@ -163,9 +163,9 @@
   {
     "objectID": "2025/weeks/week01/page.html",
     "href": "2025/weeks/week01/page.html",
-    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
+    "title": "🗓️ Unit 1 - Optical Remote Sensing refresher",
     "section": "",
-    "text": "In this first unit, we will review basic remote sensing concepts:",
+    "text": "In this first unit, we will refresh surface reflectance, the key optical remote sensing concept.\nFurthermore, we will introduce several concepts on Artificial Intelligence for Earth Observation (AI4EO).",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
@@ -174,7 +174,7 @@
   {
     "objectID": "2025/weeks/week01/page.html#lecture-slides",
     "href": "2025/weeks/week01/page.html#lecture-slides",
-    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
+    "title": "🗓️ Unit 1 - Optical Remote Sensing refresher",
     "section": "👨‍🏫 Lecture Slides",
     "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
     "crumbs": [
@@ -185,7 +185,7 @@
   {
     "objectID": "2025/weeks/week01/page.html#coursework",
     "href": "2025/weeks/week01/page.html#coursework",
-    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
+    "title": "🗓️ Unit 1 - Optical Remote Sensing refresher",
     "section": "✍️ Coursework",
     "text": "✍️ Coursework\n🚧 Data Insights with Python for Beginners 🚧\n🚧 GEE Image with Python 🚧",
     "crumbs": [
@@ -196,9 +196,9 @@
   {
     "objectID": "2025/weeks/week01/page.html#recommended-reading",
     "href": "2025/weeks/week01/page.html#recommended-reading",
-    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
+    "title": "🗓️ Unit 1 - Optical Remote Sensing refresher",
     "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for key references.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
@@ -207,9 +207,9 @@
   {
     "objectID": "2025/weeks/week01/page.html#communication",
     "href": "2025/weeks/week01/page.html#communication",
-    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
+    "title": "🗓️ Unit 1 - Optical Remote Sensing refresher",
     "section": "📟 Communication",
-    "text": "📟 Communication\n\nGet to know your peers in the course and organize study groups",
+    "text": "📟 Communication\n\nGet to know your peers in the course\nOrganize your study group",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
