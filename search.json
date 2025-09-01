@@ -147,164 +147,32 @@
     "text": "Practical exercises\n\nProgress on the Data Insigths with Python tutorial\nProgress on the GEE Image with Python tutorial"
   },
   {
-    "objectID": "2025/weeks/week02/lab.html",
-    "href": "2025/weeks/week02/lab.html",
-    "title": "🗓️ Week 02 - Practical exercise",
+    "objectID": "2025/weeks/week02/old_page.html",
+    "href": "2025/weeks/week02/old_page.html",
+    "title": "🗓️ Week 2 - Introduction to Deep Learning",
     "section": "",
-    "text": "In this week, we will follow the “SAR-based land cover classification tutorial”"
+    "text": "In this week, we will learn basic Deep Learning (DL) concepts & techniques."
   },
   {
-    "objectID": "2025/weeks/week02/lab.html#tutorial-dataset",
-    "href": "2025/weeks/week02/lab.html#tutorial-dataset",
-    "title": "🗓️ Week 02 - Practical exercise",
-    "section": "👨‍🏫 Tutorial Dataset",
-    "text": "👨‍🏫 Tutorial Dataset\n\nTwo options for downloading it:\n\nCopernicus Open Access Hub\n\n\nAlaska Satellite Facility\nIn both cases, you need to register.\n\n\nSearch and download the following products:\nS1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09\n\n\n\n\n\n\nSearch results at Copernicus Open Access Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch results at Alaska Satellite Facility\n\n\n\n\n\n\n\n\n\n\n\n🎥"
-  },
-  {
-    "objectID": "2025/weeks/week02/lab.html#important",
-    "href": "2025/weeks/week02/lab.html#important",
-    "title": "🗓️ Week 02 - Practical exercise",
-    "section": "✍️ Important",
-    "text": "✍️ Important\n🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term archive which means that products of older acquisition dates have to be requested first.\n\n\n\n\n\n\nAfter ordering, you have to wait …"
-  },
-  {
-    "objectID": "2025/weeks/week02/lab.html#recommended-reading",
-    "href": "2025/weeks/week02/lab.html#recommended-reading",
-    "title": "🗓️ Week 02 - Practical exercise",
-    "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture."
-  },
-  {
-    "objectID": "2025/weeks/week01/page.html",
-    "href": "2025/weeks/week01/page.html",
-    "title": "🗓️ Unit 1 - Optical Remote Sensing refresher",
-    "section": "",
-    "text": "In this first unit, we will refresh surface reflectance, the key optical remote sensing concept.\nFurthermore, we will introduce several concepts on Artificial Intelligence for Earth Observation (AI4EO).",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 01"
-    ]
-  },
-  {
-    "objectID": "2025/weeks/week01/page.html#lecture-slides",
-    "href": "2025/weeks/week01/page.html#lecture-slides",
-    "title": "🗓️ Unit 1 - Optical Remote Sensing refresher",
+    "objectID": "2025/weeks/week02/old_page.html#lecture-slides",
+    "href": "2025/weeks/week02/old_page.html#lecture-slides",
+    "title": "🗓️ Week 2 - Introduction to Deep Learning",
     "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 01"
-    ]
+    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides."
   },
   {
-    "objectID": "2025/weeks/week01/page.html#coursework",
-    "href": "2025/weeks/week01/page.html#coursework",
-    "title": "🗓️ Unit 1 - Optical Remote Sensing refresher",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Data Insights with Python for Beginners 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 01"
-    ]
+    "objectID": "2025/weeks/week02/old_page.html#practical-exercises",
+    "href": "2025/weeks/week02/old_page.html#practical-exercises",
+    "title": "🗓️ Week 2 - Introduction to Deep Learning",
+    "section": "Practical exercises",
+    "text": "Practical exercises\n\nIntroduction to DL with PyTorch"
   },
   {
-    "objectID": "2025/weeks/week01/page.html#required-reading",
-    "href": "2025/weeks/week01/page.html#required-reading",
-    "title": "🗓️ Unit 1 - Optical Remote Sensing refresher",
-    "section": "📚 Required Reading",
-    "text": "📚 Required Reading\n\nStudy this document before next class.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 01"
-    ]
-  },
-  {
-    "objectID": "2025/weeks/week01/page.html#communication",
-    "href": "2025/weeks/week01/page.html#communication",
-    "title": "🗓️ Unit 1 - Optical Remote Sensing refresher",
-    "section": "📟 Communication",
-    "text": "📟 Communication\n\nGet to know your peers in the course\nOrganize your study group",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 01"
-    ]
-  },
-  {
-    "objectID": "2025/index.html",
-    "href": "2025/index.html",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(27/08/2025)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Tuesdays 9:00 am - 10:00 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
-    "crumbs": [
-      "🏠 Home"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "",
-    "text": "📑 Course Brief\nFocus: the focus of this course is to gain knowledge for developing novel remote sensing analysis workflows.\nHow: reading, learning by doing and writing\n\n\n🎯 Learning Objectives\n\nAppraise the process of image analysis and its relation to research.\nDive deep into the physical principles of multispectral remote sensing.\nDistinguish the main principles of deep learning for Earth Observation data.\nApply AI techniques to obtain thematic information from Earth Observation data.\n\n\nSelect Academic Year/Term:\n 2025"
-  },
-  {
-    "objectID": "2025/syllabus.html",
-    "href": "2025/syllabus.html",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "",
-    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG",
-    "crumbs": [
-      "📓 Syllabus"
-    ]
-  },
-  {
-    "objectID": "2025/syllabus.html#prerequisitos",
-    "href": "2025/syllabus.html#prerequisitos",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "",
-    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG",
-    "crumbs": [
-      "📓 Syllabus"
-    ]
-  },
-  {
-    "objectID": "2025/syllabus.html#descripción-de-la-asignatura",
-    "href": "2025/syllabus.html#descripción-de-la-asignatura",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "DESCRIPCIÓN DE LA ASIGNATURA:",
-    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nOBJETIVOS:\n\n\n\n\n\n\nConocer nuevos conceptos y técnicas de análisis de datos de percepción remote\nProfundizar en tópicos avanzados de percepción remota de la superficie terrestre\nEntender los conceptos básicos de deep learning aplicado a datos de observación terrestre\nAplicar métodos y técnicas de deep learning para obtener información temática a partir de imágenes ópticas y SAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota de la superficie terrestre\nObtención de habilidades computacionales para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de diferentes técnicas\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEntendimiento de los conceptos fundamentales de deep learning aplicado a percepción remota\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPython & Jupyter notebooks & Google Colaboratory",
-    "crumbs": [
-      "📓 Syllabus"
-    ]
-  },
-  {
-    "objectID": "2025/syllabus.html#contenido-detallado",
-    "href": "2025/syllabus.html#contenido-detallado",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "CONTENIDO DETALLADO",
-    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nUnidad 0 – Repaso de percepción remota en el espectro óptico\n\n\n\n\n\n\nUnidad 1 – Principios de aprendizaje profundo\n\n\nUnidad 2 – Redes neuronales convolucionales\n\n\nUnidad 3 – Aprendizaje autosupervisado\n\n\nUnidad 4 – Segmentación semántica\n\n\nUnidad 5 - Modelos fundamentales para datos geoespaciales",
-    "crumbs": [
-      "📓 Syllabus"
-    ]
-  },
-  {
-    "objectID": "2025/syllabus.html#evaluación-del-curso",
-    "href": "2025/syllabus.html#evaluación-del-curso",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "EVALUACIÓN DEL CURSO:",
-    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nPresentación de dos exámenes teóricos (50%)\n\nExamen 1 - 24 de Septiembre\nExamen 2 - 26 de Noviembre\n\nEntrega de dos informes técnicos (50%)\n\nInforme 1 - 1 de Octubre\nInforme 2 - 3 de Diciembre",
-    "crumbs": [
-      "📓 Syllabus"
-    ]
-  },
-  {
-    "objectID": "2025/syllabus.html#bibliografia",
-    "href": "2025/syllabus.html#bibliografia",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "BIBLIOGRAFIA",
-    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\nChollet, F. Deep Learning with Python [2nd ed.], Manning, 2021. 504 pp.\nDe Grandi, G.D. et al. Spatial Analysis for Radar Remote Sensing of Tropical Forests, CRC Press, 2021. 380pp.\nFlores-Anderson, A.I. et al. The Synthetic Aperture Radar (SAR) Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation, SERVIR GLOBAL & SilvaCarbon, 2019. 307 pp.\nFrery, A.C. et al. SAR Image Analysis - A Computational Statistics Approach: With R Code, Data, and Applications, Wiley-IEEE Press, 2022. 208 pp.\nKamusoko, C., Optical and SAR Remote Sensing of Urban Areas: A Practical Guide, Springer, 2021. 130 pp.\nMandal, D. et al. Radar Remote Sensing for Crop Biophysical Parameter Estimation, Springer, 2021. 236 pp.\nRaff, E. Inside Deep Learning – Math, Algorithms, Models, Manning, 2022. 565 pp.\nRees, W.G. Physical Principles of Remote Sensing [3rd ed.], Cambridge University Press, 2012. 494 pp.\nRichards, J.A. Remote Sensing Digital Image Analysis Sensing [6th ed.], Springer, 2022. 567 pp.\nSimms, E.L. SAR Image Interpretation for Various Land Covers – A Practical Guide. CRC Press, 2011. 376 pp. \nUstin, S.L., and Middleton E.M. Current and near-term advances in Earth observation for ecological applications. Ecological Processes, 2021, 10:1 Woodhouse, I.H. Introduction to Microwave Remote Sensing, Taylor & Francis, 2022. 370 pp. \nYamaguchi, Y. Polarimetric SAR imaging: theory and applications. CRC Press, 2020. 350 pp.",
-    "crumbs": [
-      "📓 Syllabus"
-    ]
+    "objectID": "2025/weeks/week02/old_page.html#reading",
+    "href": "2025/weeks/week02/old_page.html#reading",
+    "title": "🗓️ Week 2 - Introduction to Deep Learning",
+    "section": "Reading",
+    "text": "Reading\nMake sure you complete this reading before next week. In your PRA notebook, summarize what have you learned from it.\n\nMathematics of Neural Networks"
   },
   {
     "objectID": "2025/weeks/week01/slides.html#your-lecturer",
@@ -398,11 +266,171 @@
     "text": "Back to this week page"
   },
   {
+    "objectID": "2025/syllabus.html",
+    "href": "2025/syllabus.html",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "",
+    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
+  },
+  {
+    "objectID": "2025/syllabus.html#prerequisitos",
+    "href": "2025/syllabus.html#prerequisitos",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "",
+    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
+  },
+  {
+    "objectID": "2025/syllabus.html#descripción-de-la-asignatura",
+    "href": "2025/syllabus.html#descripción-de-la-asignatura",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "DESCRIPCIÓN DE LA ASIGNATURA:",
+    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nOBJETIVOS:\n\n\n\n\n\n\nConocer nuevos conceptos y técnicas de análisis de datos de percepción remote\nProfundizar en tópicos avanzados de percepción remota de la superficie terrestre\nEntender los conceptos básicos de deep learning aplicado a datos de observación terrestre\nAplicar métodos y técnicas de deep learning para obtener información temática a partir de imágenes ópticas y SAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota de la superficie terrestre\nObtención de habilidades computacionales para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de diferentes técnicas\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEntendimiento de los conceptos fundamentales de deep learning aplicado a percepción remota\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPython & Jupyter notebooks & Google Colaboratory",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
+  },
+  {
+    "objectID": "2025/syllabus.html#contenido-detallado",
+    "href": "2025/syllabus.html#contenido-detallado",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "CONTENIDO DETALLADO",
+    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nUnidad 0 – Repaso de percepción remota en el espectro óptico\n\n\n\n\n\n\nUnidad 1 – Principios de aprendizaje profundo\n\n\nUnidad 2 – Redes neuronales convolucionales\n\n\nUnidad 3 – Aprendizaje autosupervisado\n\n\nUnidad 4 – Segmentación semántica\n\n\nUnidad 5 - Modelos fundamentales para datos geoespaciales",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
+  },
+  {
+    "objectID": "2025/syllabus.html#evaluación-del-curso",
+    "href": "2025/syllabus.html#evaluación-del-curso",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "EVALUACIÓN DEL CURSO:",
+    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nPresentación de dos exámenes teóricos (50%)\n\nExamen 1 - 24 de Septiembre\nExamen 2 - 26 de Noviembre\n\nEntrega de dos informes técnicos (50%)\n\nInforme 1 - 1 de Octubre\nInforme 2 - 3 de Diciembre",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
+  },
+  {
+    "objectID": "2025/syllabus.html#bibliografia",
+    "href": "2025/syllabus.html#bibliografia",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "BIBLIOGRAFIA",
+    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\nChollet, F. Deep Learning with Python [2nd ed.], Manning, 2021. 504 pp.\nDe Grandi, G.D. et al. Spatial Analysis for Radar Remote Sensing of Tropical Forests, CRC Press, 2021. 380pp.\nFlores-Anderson, A.I. et al. The Synthetic Aperture Radar (SAR) Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation, SERVIR GLOBAL & SilvaCarbon, 2019. 307 pp.\nFrery, A.C. et al. SAR Image Analysis - A Computational Statistics Approach: With R Code, Data, and Applications, Wiley-IEEE Press, 2022. 208 pp.\nKamusoko, C., Optical and SAR Remote Sensing of Urban Areas: A Practical Guide, Springer, 2021. 130 pp.\nMandal, D. et al. Radar Remote Sensing for Crop Biophysical Parameter Estimation, Springer, 2021. 236 pp.\nRaff, E. Inside Deep Learning – Math, Algorithms, Models, Manning, 2022. 565 pp.\nRees, W.G. Physical Principles of Remote Sensing [3rd ed.], Cambridge University Press, 2012. 494 pp.\nRichards, J.A. Remote Sensing Digital Image Analysis Sensing [6th ed.], Springer, 2022. 567 pp.\nSimms, E.L. SAR Image Interpretation for Various Land Covers – A Practical Guide. CRC Press, 2011. 376 pp. \nUstin, S.L., and Middleton E.M. Current and near-term advances in Earth observation for ecological applications. Ecological Processes, 2021, 10:1 Woodhouse, I.H. Introduction to Microwave Remote Sensing, Taylor & Francis, 2022. 370 pp. \nYamaguchi, Y. Polarimetric SAR imaging: theory and applications. CRC Press, 2020. 350 pp.",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "",
+    "text": "📑 Course Brief\nFocus: the focus of this course is to gain knowledge for developing novel remote sensing analysis workflows.\nHow: reading, learning by doing and writing\n\n\n🎯 Learning Objectives\n\nAppraise the process of image analysis and its relation to research.\nDive deep into the physical principles of multispectral remote sensing.\nDistinguish the main principles of deep learning for Earth Observation data.\nApply AI techniques to obtain thematic information from Earth Observation data.\n\n\nSelect Academic Year/Term:\n 2025"
+  },
+  {
+    "objectID": "2025/index.html",
+    "href": "2025/index.html",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "",
+    "text": "📢 Syllabus\n\n\n\n\n\n(27/08/2025)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Tuesdays 9:00 am - 10:00 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
+    "crumbs": [
+      "🏠 Home"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week01/page.html",
+    "href": "2025/weeks/week01/page.html",
+    "title": "🗓️ Unit 1 - Optical Remote Sensing refresher",
+    "section": "",
+    "text": "In this first unit, we will refresh surface reflectance, the key optical remote sensing concept.\nFurthermore, we will introduce several concepts on Artificial Intelligence for Earth Observation (AI4EO).",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week01/page.html#lecture-slides",
+    "href": "2025/weeks/week01/page.html#lecture-slides",
+    "title": "🗓️ Unit 1 - Optical Remote Sensing refresher",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week01/page.html#coursework",
+    "href": "2025/weeks/week01/page.html#coursework",
+    "title": "🗓️ Unit 1 - Optical Remote Sensing refresher",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Data Insights with Python for Beginners 🚧",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week01/page.html#required-reading",
+    "href": "2025/weeks/week01/page.html#required-reading",
+    "title": "🗓️ Unit 1 - Optical Remote Sensing refresher",
+    "section": "📚 Required Reading",
+    "text": "📚 Required Reading\n\nStudy this document before next class.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week01/page.html#communication",
+    "href": "2025/weeks/week01/page.html#communication",
+    "title": "🗓️ Unit 1 - Optical Remote Sensing refresher",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nGet to know your peers in the course\nOrganize your study group",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week02/lab.html",
+    "href": "2025/weeks/week02/lab.html",
+    "title": "🗓️ Week 02 - Practical exercise",
+    "section": "",
+    "text": "In this week, we will follow the “SAR-based land cover classification tutorial”"
+  },
+  {
+    "objectID": "2025/weeks/week02/lab.html#tutorial-dataset",
+    "href": "2025/weeks/week02/lab.html#tutorial-dataset",
+    "title": "🗓️ Week 02 - Practical exercise",
+    "section": "👨‍🏫 Tutorial Dataset",
+    "text": "👨‍🏫 Tutorial Dataset\n\nTwo options for downloading it:\n\nCopernicus Open Access Hub\n\n\nAlaska Satellite Facility\nIn both cases, you need to register.\n\n\nSearch and download the following products:\nS1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09\n\n\n\n\n\n\nSearch results at Copernicus Open Access Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch results at Alaska Satellite Facility\n\n\n\n\n\n\n\n\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2025/weeks/week02/lab.html#important",
+    "href": "2025/weeks/week02/lab.html#important",
+    "title": "🗓️ Week 02 - Practical exercise",
+    "section": "✍️ Important",
+    "text": "✍️ Important\n🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term archive which means that products of older acquisition dates have to be requested first.\n\n\n\n\n\n\nAfter ordering, you have to wait …"
+  },
+  {
+    "objectID": "2025/weeks/week02/lab.html#recommended-reading",
+    "href": "2025/weeks/week02/lab.html#recommended-reading",
+    "title": "🗓️ Week 02 - Practical exercise",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture."
+  },
+  {
     "objectID": "2025/weeks/week02/page.html",
     "href": "2025/weeks/week02/page.html",
-    "title": "🗓️ Week 2 - Introduction to Deep Learning",
+    "title": "🗓️ Week 2 - Foundations of Deep Learning",
     "section": "",
-    "text": "In this week, we will learn basic Deep Learning (DL) concepts & techniques.",
+    "text": "In this week, we will learn basic concepts about Deep Learning (DL).",
     "crumbs": [
       "🗓️ Weeks",
       "Week 02"
@@ -411,9 +439,9 @@
   {
     "objectID": "2025/weeks/week02/page.html#lecture-slides",
     "href": "2025/weeks/week02/page.html#lecture-slides",
-    "title": "🗓️ Week 2 - Introduction to Deep Learning",
+    "title": "🗓️ Week 2 - Foundations of Deep Learning",
     "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
+    "text": "👨‍🏫 Lecture Slides\n\nDeep Learning Foundations to view the slides.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 02"
@@ -422,20 +450,31 @@
   {
     "objectID": "2025/weeks/week02/page.html#practical-exercises",
     "href": "2025/weeks/week02/page.html#practical-exercises",
-    "title": "🗓️ Week 2 - Introduction to Deep Learning",
+    "title": "🗓️ Week 2 - Foundations of Deep Learning",
     "section": "Practical exercises",
-    "text": "Practical exercises\n\nIntroduction to DL with PyTorch",
+    "text": "Practical exercises\n\nBuilding a linear regression model",
     "crumbs": [
       "🗓️ Weeks",
       "Week 02"
     ]
   },
   {
-    "objectID": "2025/weeks/week02/page.html#reading",
-    "href": "2025/weeks/week02/page.html#reading",
-    "title": "🗓️ Week 2 - Introduction to Deep Learning",
-    "section": "Reading",
-    "text": "Reading\nMake sure you complete this reading before next week. In your PRA notebook, summarize what have you learned from it.\n\nMathematics of Neural Networks",
+    "objectID": "2025/weeks/week02/page.html#required-reading",
+    "href": "2025/weeks/week02/page.html#required-reading",
+    "title": "🗓️ Week 2 - Foundations of Deep Learning",
+    "section": "Required reading",
+    "text": "Required reading\n\nThe mechanics of learning",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week02/page.html#suggested-reading",
+    "href": "2025/weeks/week02/page.html#suggested-reading",
+    "title": "🗓️ Week 2 - Foundations of Deep Learning",
+    "section": "Suggested reading",
+    "text": "Suggested reading\n\nMathematics of Neural Networks",
     "crumbs": [
       "🗓️ Weeks",
       "Week 02"
