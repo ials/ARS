@@ -7,7 +7,7 @@ In this  week, we will learn basic concepts about *Deep Learning (DL)*.
 
 ## 👨‍🏫 Lecture Slides 
 
-- [Deep Learning Foundations](https://drive.google.com/file/d/1B4pqQIU9nX9E1XzpyxXyV6KoL-Sv6A9y/view) to view the slides.
+- [Deep Learning Foundations](https://drive.google.com/file/d/1B4pqQIU9nX9E1XzpyxXyV6KoL-Sv6A9y/view)
 
 ## Practical exercises
 
