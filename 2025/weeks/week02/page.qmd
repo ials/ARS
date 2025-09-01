@@ -1,22 +1,26 @@
 ---
-title: "🗓️ Week 2 - Introduction to Deep Learning "
+title: "🗓️ Week 2 - Foundations of  Deep Learning "
 ---
 
-In this  week, we will learn basic *Deep Learning (DL)* concepts & techniques.
+In this  week, we will learn basic concepts about *Deep Learning (DL)*.
 
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](https://drive.google.com/file/d/1eK3ptCDU4e4tEwFKp_9xF1sl-b9jTz4D/view?usp=sharing) to view the slides.
+- [Deep Learning Foundations](https://drive.google.com/file/d/1B4pqQIU9nX9E1XzpyxXyV6KoL-Sv6A9y/view) to view the slides.
 
 ## Practical exercises
 
-- [Introduction to DL with PyTorch](https://github.com/jtao/shortcourses/tree/master/Intro_to_PyTorch)
+- [Building a linear regression model](https://drive.google.com/file/d/14QWp5Yzv6lkJhvTy4hTm-viW_M5LiqHW/view)
 
-## Reading
+## Required reading
 
-Make sure you complete this reading before next week. In your PRA notebook, summarize what have you learned from it.
+- [The mechanics of learning](https://drive.google.com/file/d/1yA9qOCovhXpyS3Ph6fcWa07ZpaWVTZMm/view)
+
+## Suggested reading
 
 - [Mathematics of Neural Networks](https://drive.google.com/file/d/1rUR_G6MbaMAh6qXwz4zn--a1zVlPJAPm/view?usp=sharing)
+
+
 
 
