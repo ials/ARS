@@ -191,9 +191,9 @@
   {
     "objectID": "2025/weeks/week02/page.html",
     "href": "2025/weeks/week02/page.html",
-    "title": "🗓️ Week 2 - Foundations of Deep Learning",
+    "title": "🗓️ Week 2 - Deep Learning",
     "section": "",
-    "text": "In this week, we will know and practice Convolutional Neural Networks (CNN).",
+    "text": "In this week, we will get to know Foundations of Deep Learning.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 02"
@@ -202,20 +202,31 @@
   {
     "objectID": "2025/weeks/week02/page.html#lecture-slides",
     "href": "2025/weeks/week02/page.html#lecture-slides",
-    "title": "🗓️ Week 2 - Foundations of Deep Learning",
+    "title": "🗓️ Week 2 - Deep Learning",
     "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\n\nCNNs",
+    "text": "👨‍🏫 Lecture Slides\n\nDL foundations\nBuilding a linear regression model",
     "crumbs": [
       "🗓️ Weeks",
       "Week 02"
     ]
   },
   {
-    "objectID": "2025/weeks/week02/page.html#practical-exercises",
-    "href": "2025/weeks/week02/page.html#practical-exercises",
-    "title": "🗓️ Week 2 - Foundations of Deep Learning",
-    "section": "📚 Practical exercises",
-    "text": "📚 Practical exercises\n\nCNNs",
+    "objectID": "2025/weeks/week02/page.html#practical-exercise",
+    "href": "2025/weeks/week02/page.html#practical-exercise",
+    "title": "🗓️ Week 2 - Deep Learning",
+    "section": "📚 Practical exercise",
+    "text": "📚 Practical exercise\n\nReproduce Edward Raff code for chapter 1 and chapter 2.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week02/page.html#required-reading",
+    "href": "2025/weeks/week02/page.html#required-reading",
+    "title": "🗓️ Week 2 - Deep Learning",
+    "section": "📚 Required reading",
+    "text": "📚 Required reading\n\nMechanics of learning",
     "crumbs": [
       "🗓️ Weeks",
       "Week 02"
@@ -224,9 +235,9 @@
   {
     "objectID": "2025/weeks/week02/page.html#coursework",
     "href": "2025/weeks/week02/page.html#coursework",
-    "title": "🗓️ Week 2 - Foundations of Deep Learning",
+    "title": "🗓️ Week 2 - Deep Learning",
     "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n\nReproduce the code for the DL application you selected and write your Informe No. 1.\nComplete the 5 courses in the Deep Learning in Python track at DataCamp before the due date",
+    "text": "✍️ Coursework\n\nSelect a DL application for your Informe No. 1.\nStart the Deep Learning in Python track at DataCamp",
     "crumbs": [
       "🗓️ Weeks",
       "Week 02"
@@ -661,9 +672,9 @@
   {
     "objectID": "2025/weeks/week03/page.html",
     "href": "2025/weeks/week03/page.html",
-    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
+    "title": "🗓️ Week 3 - CNNs",
     "section": "",
-    "text": "In this week, we will refresh basic concepts on SAR physics, define a workflow for radiometric terrain correction and geocoding, and explore Sentinel-1 data in GEE.",
+    "text": "In this week, we will know and practice Convolutional Neural Networks (CNN).",
     "crumbs": [
       "🗓️ Weeks",
       "Week 03"
@@ -672,53 +683,31 @@
   {
     "objectID": "2025/weeks/week03/page.html#lecture-slides",
     "href": "2025/weeks/week03/page.html#lecture-slides",
-    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
+    "title": "🗓️ Week 3 - CNNs",
     "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
+    "text": "👨‍🏫 Lecture Slides\n\nCNNs",
     "crumbs": [
       "🗓️ Weeks",
       "Week 03"
     ]
   },
   {
-    "objectID": "2025/weeks/week03/page.html#first-report",
-    "href": "2025/weeks/week03/page.html#first-report",
-    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
-    "section": "First report",
-    "text": "First report\nStudents decide the topic & study area for their first report",
+    "objectID": "2025/weeks/week03/page.html#practical-exercises",
+    "href": "2025/weeks/week03/page.html#practical-exercises",
+    "title": "🗓️ Week 3 - CNNs",
+    "section": "📚 Practical exercises",
+    "text": "📚 Practical exercises\n\nCNNs",
     "crumbs": [
       "🗓️ Weeks",
       "Week 03"
     ]
   },
   {
-    "objectID": "2025/weeks/week03/page.html#practical-exercise",
-    "href": "2025/weeks/week03/page.html#practical-exercise",
-    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
-    "section": "Practical exercise",
-    "text": "Practical exercise\nThe tutorial material is here",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 03"
-    ]
-  },
-  {
-    "objectID": "2025/weeks/week03/page.html#recommended-reading",
-    "href": "2025/weeks/week03/page.html#recommended-reading",
-    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
-    "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\nAngular-Based Radiometric Slope Correction for Sentinel-1 on GEE\nVollrath et al. (2022)",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 03"
-    ]
-  },
-  {
-    "objectID": "2025/weeks/week03/page.html#recommended-video",
-    "href": "2025/weeks/week03/page.html#recommended-video",
-    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
-    "section": "📚 Recommended Video",
-    "text": "📚 Recommended Video\n\nICEYE SAR products (Ager, 2023)",
+    "objectID": "2025/weeks/week03/page.html#coursework",
+    "href": "2025/weeks/week03/page.html#coursework",
+    "title": "🗓️ Week 3 - CNNs",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n\nReproduce the code for the DL application you selected and write your Informe No. 1.\nComplete the 5 courses in the Deep Learning in Python track at DataCamp before the due date",
     "crumbs": [
       "🗓️ Weeks",
       "Week 03"
