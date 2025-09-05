@@ -2,25 +2,23 @@
 title: "🗓️ Week 2 - Foundations of  Deep Learning "
 ---
 
-In this  week, we will learn basic concepts about *Deep Learning (DL)*.
+In this  week, we will know and practice *Convolutional Neural Networks (CNN)*.
 
 
 ## 👨‍🏫 Lecture Slides 
 
-- [Deep Learning Foundations](https://drive.google.com/file/d/1B4pqQIU9nX9E1XzpyxXyV6KoL-Sv6A9y/view)
+- [CNNs](https://drive.google.com/file/d/1iKuK4BUHIkyrM0GLhfZE4_izi8_gT4NN/view)
 
-## Practical exercises
+## 📚 Practical exercises
 
-- [Building a linear regression model](https://drive.google.com/file/d/14QWp5Yzv6lkJhvTy4hTm-viW_M5LiqHW/view)
+- [CNNs](https://drive.google.com/file/d/1UngESG-Hw7S86IwhYre23hVMSaCN27hA/view)
 
-## Required reading
 
-- [The mechanics of learning](https://drive.google.com/file/d/1yA9qOCovhXpyS3Ph6fcWa07ZpaWVTZMm/view)
+## ✍️ Coursework
 
-## Suggested reading
+- Reproduce the code for the DL application you selected and *write your Informe No. 1*.
 
-- [Mathematics of Neural Networks](https://drive.google.com/file/d/1rUR_G6MbaMAh6qXwz4zn--a1zVlPJAPm/view?usp=sharing)
-
+- Complete the 5 courses in the *Deep Learning in Python track* at DataCamp before the due date
 
 
 
