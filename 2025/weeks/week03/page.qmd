@@ -1,31 +1,24 @@
 ---
-title: "🗓️ Week 3 -  SAR Analysis Ready Data(ARD) "
+title: "🗓️ Week 3 - CNNs "
 ---
 
-In this  week, we will refresh basic concepts on SAR physics, define a workflow for radiometric terrain correction and geocoding, and explore Sentinel-1 data in GEE.
+In this  week, we will know and practice *Convolutional Neural Networks (CNN)*.
 
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](slides.qmd) to view the slides.
+- [CNNs](https://drive.google.com/file/d/1iKuK4BUHIkyrM0GLhfZE4_izi8_gT4NN/view)
 
-## First report 
+## 📚 Practical exercises
 
-**Students decide the topic & study area for their first report**
-
-## Practical exercise
-
-The tutorial  material is [here](lab.qmd)
+- [CNNs](https://drive.google.com/file/d/1UngESG-Hw7S86IwhYre23hVMSaCN27hA/view)
 
 
-## 📚 Recommended Reading
+## ✍️ Coursework
 
-[Angular-Based Radiometric Slope Correction for Sentinel-1 on GEE](https://www.mdpi.com/2072-4292/12/11/1867) 
+- Reproduce the code for the DL application you selected and *write your Informe No. 1*.
 
-Vollrath et al. (2022) 
+- Complete the 5 courses in the *Deep Learning in Python track* at DataCamp before the due date
 
 
-## 📚 Recommended Video
-
-- [ICEYE SAR products](https://www.iceye.com/vos-talk3-video-page) (Ager, 2023)
 
