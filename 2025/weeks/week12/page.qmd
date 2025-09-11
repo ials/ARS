@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Week 12 -Convolutional Neural Networks "
+title: "🗓️ Week 4  - CNNs for image classification"
 ---
 
 In this  week, you have to complete two main tasks.

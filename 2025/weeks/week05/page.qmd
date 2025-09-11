@@ -1,32 +1,27 @@
 ---
-title: "🗓️ Week5 - Understanding SAR workflows "
+title: "🗓️ Week 5 - Deep Nets for Earth Observation "
 ---
 
-In this  week, we will revise the workflows we proposed  for our *Informe 1*. Bring them printed to the classroom.
-
-## 👨‍🏫 Lecture Slides 
-
-Click [here](slides.qmd) to view the slides.
-
-## First report 
-
-**Students revise objectives & workflow for their first report**
-
-## Practical exercises
-
-- Start implementing your workflow
-
-- Keep doing the ARSET assignment
+In this  week, we will see a  PyTorch implementation of a Convolutional Neural Network for semantic segmentation of aerial images.
 
 
-## 📚 Recommended Reading
+## 👨‍🏫 Theory
 
-[Agricultural Crop Classification Roadmap using Optical and SAR Imagery - Part 3](https://appliedsciences.nasa.gov/sites/default/files/2021-10/Ag_Part3.pdf)
+[Slides](https://drive.google.com/file/d/1-aTASj7l8WXNsVuOgYAEqzfe9V8jJeJi/view?usp=sharing)
 
-[Agricultural Crop Classification Roadmap using Optical and SAR Imagery - Part 4](https://appliedsciences.nasa.gov/sites/default/files/2021-10/Ag_Part4.pdf)
+![](figures/DL4RS.png)
 
 
-## 📚 Recommended Video
+## 👨‍🏫 Practical
 
-- [Operational Crop Classification Roadmap using Optical and SAR Imagery](https://youtu.be/6_bytSnJCc8) by Heather McNairn & Laura Dingle-Robertson (AAFC)
+Build a convolutional neural network  for semantic segmentation of urban land cover from orthoimages. Replicate [this Colab notebook](https://colab.research.google.com/drive/1xnZDpnejdhGjENL5JiaohJIS7n3oAPel?usp=sharing)
+
+![](figures/epoch4_10.png)
+
+Make sure you complete the practical within thos week. In your PRA notebook, summarize what have you learned.
+
+## Reading
+
+[Semantic Segmentation of Earth Observation Data Using Multimodal and Multi-scale Deep Networks](https://arxiv.org/abs/1609.06846)
+
 
