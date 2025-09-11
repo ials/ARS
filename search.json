@@ -1,5 +1,137 @@
 [
   {
+    "objectID": "2025/weeks/week05/slides.html#the-importance-of-workflows",
+    "href": "2025/weeks/week05/slides.html#the-importance-of-workflows",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "The importance of workflows",
+    "text": "The importance of workflows"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#ml-training-workflow-1",
+    "href": "2025/weeks/week05/slides.html#ml-training-workflow-1",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "ML training workflow (1)",
+    "text": "ML training workflow (1)"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#ml-training-workflow-2",
+    "href": "2025/weeks/week05/slides.html#ml-training-workflow-2",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "ML training workflow (2)",
+    "text": "ML training workflow (2)"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#land-cover-classification-at-three-levels",
+    "href": "2025/weeks/week05/slides.html#land-cover-classification-at-three-levels",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "Land cover classification at three levels",
+    "text": "Land cover classification at three levels"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#land-cover-classification-in-complex-terrain",
+    "href": "2025/weeks/week05/slides.html#land-cover-classification-in-complex-terrain",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "Land cover classification in complex terrain",
+    "text": "Land cover classification in complex terrain"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#agricultural-crop-classification",
+    "href": "2025/weeks/week05/slides.html#agricultural-crop-classification",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "Agricultural Crop Classification",
+    "text": "Agricultural Crop Classification"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#wide-area-land-cover-mapping",
+    "href": "2025/weeks/week05/slides.html#wide-area-land-cover-mapping",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "Wide area land cover mapping",
+    "text": "Wide area land cover mapping"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#each-student-present-herhis-proposal",
+    "href": "2025/weeks/week05/slides.html#each-student-present-herhis-proposal",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "Each student present her/his proposal",
+    "text": "Each student present her/his proposal"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#start-implementing-your-workflow-for-informe-1",
+    "href": "2025/weeks/week05/slides.html#start-implementing-your-workflow-for-informe-1",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "Start implementing your workflow for Informe 1",
+    "text": "Start implementing your workflow for Informe 1\n\nDefine your study area & your software tools\nGet your hands dirty with code"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#watch-this-video",
+    "href": "2025/weeks/week05/slides.html#watch-this-video",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "Watch this video",
+    "text": "Watch this video\nOperational Crop Classification Roadmap using Optical and SAR Imagery\nARSET (2021)"
+  },
+  {
+    "objectID": "2025/weeks/week05/lab.html",
+    "href": "2025/weeks/week05/lab.html",
+    "title": "🗓️ Week 03 - Practical exercise",
+    "section": "",
+    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2025/weeks/week04/page.html",
+    "href": "2025/weeks/week04/page.html",
+    "title": "🗓️ Week 4 - CNNs for image classification",
+    "section": "",
+    "text": "In this week, you have to complete two main tasks.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week04/page.html#task-1",
+    "href": "2025/weeks/week04/page.html#task-1",
+    "title": "🗓️ Week 4 - CNNs for image classification",
+    "section": "👨‍🏫 Task 1",
+    "text": "👨‍🏫 Task 1\nWatch the tutorial CNN in Deep Learning",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week04/page.html#task-2",
+    "href": "2025/weeks/week04/page.html#task-2",
+    "title": "🗓️ Week 4 - CNNs for image classification",
+    "section": "👨‍🏫 Task 2",
+    "text": "👨‍🏫 Task 2\nBuild a convolutional neural network from scratch to classify images into two categories. For such a task, follow each step from this tutorial\n\nYou can download the Kaggle Cats and Dogs Dataset from here.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week04/page.html#assignment",
+    "href": "2025/weeks/week04/page.html#assignment",
+    "title": "🗓️ Week 4 - CNNs for image classification",
+    "section": "Assignment",
+    "text": "Assignment\nMake sure you complete both tasks within this week. In your PRA notebook, summarize what have you learned from both of them.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week04/page.html#reading",
+    "href": "2025/weeks/week04/page.html#reading",
+    "title": "🗓️ Week 4 - CNNs for image classification",
+    "section": "Reading",
+    "text": "Reading\nRead (and take notes) of the article Ten deep learning techniques to address small data problems with remote sensing",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 04"
+    ]
+  },
+  {
     "objectID": "2025/weeks/week03/slides.html#bad-news-good-news",
     "href": "2025/weeks/week03/slides.html#bad-news-good-news",
     "title": "🗓️ Week 04 SAR Physics",
@@ -711,6 +843,120 @@
     "crumbs": [
       "🗓️ Weeks",
       "Week 03"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week04/lab.html",
+    "href": "2025/weeks/week04/lab.html",
+    "title": "🗓️ Week 03 - Practical exercise",
+    "section": "",
+    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#the-importance-of-workflows",
+    "href": "2025/weeks/week04/slides.html#the-importance-of-workflows",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "The importance of workflows",
+    "text": "The importance of workflows"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#the-importance-of-documentation",
+    "href": "2025/weeks/week04/slides.html#the-importance-of-documentation",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "The importance of documentation",
+    "text": "The importance of documentation"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#generic-workflow",
+    "href": "2025/weeks/week04/slides.html#generic-workflow",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "Generic workflow",
+    "text": "Generic workflow"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#a-sar-workflow",
+    "href": "2025/weeks/week04/slides.html#a-sar-workflow",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "A SAR workflow",
+    "text": "A SAR workflow"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#another-workflow",
+    "href": "2025/weeks/week04/slides.html#another-workflow",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "Another workflow",
+    "text": "Another workflow"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#define-your-informe-1-objectives",
+    "href": "2025/weeks/week04/slides.html#define-your-informe-1-objectives",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "Define your Informe 1 objectives",
+    "text": "Define your Informe 1 objectives\n\nWrite down what you expect to do with ARD SAR data.\nLook for a paper reporting a similar application"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#define-your-workflow",
+    "href": "2025/weeks/week04/slides.html#define-your-workflow",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "Define your workflow",
+    "text": "Define your workflow\n\nDraw the first version of your workflow\nWrite down your ideas and bring the draft to next class"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#complete-the-coursework",
+    "href": "2025/weeks/week04/slides.html#complete-the-coursework",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "Complete the coursework",
+    "text": "Complete the coursework\n\nWeek 1: Data Insights with Python for Beginners\nWeek 1: GEE Image with Python\nWeek 3: Preparing Sentinel-1 Analysis Ready Data in GEE"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#watch-this-video",
+    "href": "2025/weeks/week04/slides.html#watch-this-video",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "Watch this video",
+    "text": "Watch this video\nAnswer pressing questions on our world\nTom Ager (2023)"
+  },
+  {
+    "objectID": "2025/weeks/week05/page.html",
+    "href": "2025/weeks/week05/page.html",
+    "title": "🗓️ Week 5 - Deep Nets for Earth Observation",
+    "section": "",
+    "text": "In this week, we will see a PyTorch implementation of a Convolutional Neural Network for semantic segmentation of aerial images.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week05/page.html#theory",
+    "href": "2025/weeks/week05/page.html#theory",
+    "title": "🗓️ Week 5 - Deep Nets for Earth Observation",
+    "section": "👨‍🏫 Theory",
+    "text": "👨‍🏫 Theory\nSlides",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week05/page.html#practical",
+    "href": "2025/weeks/week05/page.html#practical",
+    "title": "🗓️ Week 5 - Deep Nets for Earth Observation",
+    "section": "👨‍🏫 Practical",
+    "text": "👨‍🏫 Practical\nBuild a convolutional neural network for semantic segmentation of urban land cover from orthoimages. Replicate this Colab notebook\n\nMake sure you complete the practical within thos week. In your PRA notebook, summarize what have you learned.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week05/page.html#reading",
+    "href": "2025/weeks/week05/page.html#reading",
+    "title": "🗓️ Week 5 - Deep Nets for Earth Observation",
+    "section": "Reading",
+    "text": "Reading\nSemantic Segmentation of Earth Observation Data Using Multimodal and Multi-scale Deep Networks",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
     ]
   }
 ]
