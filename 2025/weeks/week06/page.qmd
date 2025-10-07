@@ -1,12 +1,12 @@
 ---
-title: "🗓️ Week 6 -  SAR-based soil moisture over croplands "
+title: "🗓️ Week 6 -PyTorch Lightning "
 ---
 
-In this  week, we will revise a method for soil moisture retrieval over croplands using dual-pol GRD SAR data.
+In this  week, we will get to know *PyTorch Lightning* a deep learning framework for  AI research.
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](slides.qmd) to view the slides.
+Click [here](https://tugot17.github.io/Pytorch-Lightning-Presentation/#/) to view the slides.
 
 ## First report 
 
@@ -15,5 +15,5 @@ Click [here](slides.qmd) to view the slides.
 
 ## 📚 Recommended Reading
 
-[Soil moisture retrieval over croplands using SAR GRD data](https://drive.google.com/file/d/1LljPI4_XBAzD3vcBz96_oEYaruro-lF1/view?usp=sharing)
+[From PyTorch to PyTorch Lightning](https://medium.com/data-science/from-pytorch-to-pytorch-lightning-a-gentle-introduction-b371b7caaf09)
 
