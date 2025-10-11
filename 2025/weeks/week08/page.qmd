@@ -1,9 +1,18 @@
 ---
-title: "🗓️ Week 8  - Examen No. 1 "
+title: "🗓️ Week 8  - Multi_Task Learning "
 ---
 
-In this  week, we will  replicate the ECOSTRESS & EMIT tutorials. Based on them, we will write a technical report with the contents explained on 11th December.
+In this  week, we will learn how to implement and train  a **deep multitask model** using Earth Observation data for different downstream tasks such as classification, segmentation, and regression. We will reproduce experiments from the *Efficient Deep Learning EO workshop* (IGARSS 2024).
 
-We will send the complete report, in pdf format, via e-mail,  before the due date.
+## 👨‍🏫 Lecture Slides 
 
+Click [here](https://drive.google.com/file/d/1KY9Sjd3UzLHd9f0nyBGBWPw17eygdHvh/view?usp=sharing) to view the slides.
+
+## Practical exercises
+
+- [IGARSS 2024 multitask learning tutorial](https://github.com/HSG-AIML/IGARSS2023_EfficientDeepLearningEO/blob/main/02-mtl/lab_mtl.ipynb)
+
+## 📚  Required reading
+
+- [Stand-Alone Self-Attention in Vision Models](https://proceedings.neurips.cc/paper/2019/file/3416a75f4cea9109507cacd8e2f2aefc-Paper.pdf)
 
