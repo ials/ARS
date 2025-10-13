@@ -14,5 +14,5 @@ Click [here](https://drive.google.com/file/d/1KY9Sjd3UzLHd9f0nyBGBWPw17eygdHvh/v
 
 ## 📚  Required reading
 
-- [The Complete Guide to Recurrent Neural Networks](https://www.v7labs.com/blog/recurrent-neural-networks-guide)
+- [Stand-Alone Self-Attention in Vision Models](https://proceedings.neurips.cc/paper/2019/file/3416a75f4cea9109507cacd8e2f2aefc-Paper.pdf)
 
