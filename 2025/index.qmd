@@ -4,15 +4,12 @@ subtitle: "Academic Year: 2025"
 format: html
 ---
 
-
-/Users/ials/Desktop/PRA-Examen-1.png
 ::: {.callout-important collapse=true}
 ## 📢  Grades
 
 **Examen No. 1** (13/10/2025)
 
 - ![](PRA-Examen-1.png)
-
 :::
 
 ::: {.callout-important collapse=true}
