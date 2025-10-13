@@ -11,7 +11,7 @@ format: html
 
 **Examen No. 1** (13/10/2025)
 
-- ![](figures/PRA-Examen-1.png)
+- ![](PRA-Examen-1.png)
 
 :::
 
