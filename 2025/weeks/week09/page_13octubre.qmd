@@ -1,16 +1,18 @@
 ---
-title: "🗓️ Week 8  - Multi_Task Learning "
+title: "🗓️ Week 9   - Selfisupervised learning  "
 ---
 
-In this  week, we will learn how to implement and train  a **deep multitask model** using Earth Observation data for different downstream tasks such as classification, segmentation, and regression. We will reproduce experiments from the *Efficient Deep Learning EO workshop* (IGARSS 2024).
+In this  week, we will implement some of the self-supervised learning approaches for Earth Observation data. We will reproduce experiments from the *Efficient Deep Learning EO workshop* (IGARSS 2024).
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](https://drive.google.com/file/d/1KY9Sjd3UzLHd9f0nyBGBWPw17eygdHvh/view?usp=sharing) to view the slides.
+Click [here](https://drive.google.com/file/d/1OsJpx-eoXt49uuK0AaE6oMreyMXtafbW/view?usp=sharing) to view the slides.
 
 ## Practical exercises
 
-- [IGARSS 2024 multitask learning tutorial](https://github.com/HSG-AIML/IGARSS2023_EfficientDeepLearningEO/blob/main/02-mtl/lab_mtl.ipynb)
+- [IGARSS 2024 Self-supervised Learning](https://github.com/HSG-AIML/IGARSS2023_EfficientDeepLearningEO/tree/main/03-ssl)
+
+- [Train a recurrent neural network with PyTorch Lightning](https://lightning.ai/lightning-ai/studios/train-a-recurrent-neural-network-with-pytorch-lightning?view=public&section=featured)
 
 ## 📚  Required reading
 

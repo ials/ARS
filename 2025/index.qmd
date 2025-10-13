@@ -4,7 +4,18 @@ subtitle: "Academic Year: 2025"
 format: html
 ---
 
-::: {.callout-important collapse=false}
+
+/Users/ials/Desktop/PRA-Examen-1.png
+::: {.callout-important collapse=true}
+## 📢  Grades
+
+**Examen No. 1** (13/10/2025)
+
+- ![](figures/PRA-Examen-1.png)
+
+:::
+
+::: {.callout-important collapse=true}
 ## 📢 Syllabus
 
 (27/08/2025)
