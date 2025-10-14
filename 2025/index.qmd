@@ -5,11 +5,15 @@ format: html
 ---
 
 ::: {.callout-important collapse=true}
-## 📢  Grades
-
-**Examen No. 1** (13/10/2025)
+## 📢  **Notas Examen No. 1** (13/10/2025)
 
 - ![](PRA-Examen-1.png)
+:::
+
+::: {.callout-important collapse=true}
+## 📢  **Notas Informe No. 1** (14/10/2025)
+
+- ![](PRA-Informe-1.png)
 :::
 
 ::: {.callout-important collapse=true}
