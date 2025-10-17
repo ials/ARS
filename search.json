@@ -1,5 +1,140 @@
 [
   {
+    "objectID": "2025/weeks/week09/slides.html#diverse-platforms-and-sensors",
+    "href": "2025/weeks/week09/slides.html#diverse-platforms-and-sensors",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "Diverse platforms and sensors",
+    "text": "Diverse platforms and sensors"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#surface-spectral-properties",
+    "href": "2025/weeks/week09/slides.html#surface-spectral-properties",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "Surface spectral properties",
+    "text": "Surface spectral properties"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#vegetation-properties",
+    "href": "2025/weeks/week09/slides.html#vegetation-properties",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "Vegetation properties",
+    "text": "Vegetation properties"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#what-records-a-remote-sensor",
+    "href": "2025/weeks/week09/slides.html#what-records-a-remote-sensor",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "What records a remote sensor?",
+    "text": "What records a remote sensor?\nRadiance values changes with illumination."
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#vegetation-indices",
+    "href": "2025/weeks/week09/slides.html#vegetation-indices",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "Vegetation indices",
+    "text": "Vegetation indices"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#optical-methods",
+    "href": "2025/weeks/week09/slides.html#optical-methods",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "Optical methods",
+    "text": "Optical methods"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#interaction-light-plant",
+    "href": "2025/weeks/week09/slides.html#interaction-light-plant",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "Interaction light & plant",
+    "text": "Interaction light & plant"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#scopes-of-disease-sensing",
+    "href": "2025/weeks/week09/slides.html#scopes-of-disease-sensing",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "Scopes of disease sensing",
+    "text": "Scopes of disease sensing"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#monitoring-plant-diseases",
+    "href": "2025/weeks/week09/slides.html#monitoring-plant-diseases",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "Monitoring plant diseases",
+    "text": "Monitoring plant diseases\nRemote sensing of diseases under production conditions is challenging because of variable environmental factors and crop-intrinsic characteristics, e.g., 3D architecture, various growth stages, variety of diseases that may occur simultaneously, and the high sensitivity required to reliably perceive low disease levels suitable for decision-making in disease control."
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#uav-applications",
+    "href": "2025/weeks/week09/slides.html#uav-applications",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "UAV applications",
+    "text": "UAV applications"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#disease-detection",
+    "href": "2025/weeks/week09/slides.html#disease-detection",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "Disease detection",
+    "text": "Disease detection\nIdentifying banana wilt disease"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#disease-quantification",
+    "href": "2025/weeks/week09/slides.html#disease-quantification",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "Disease quantification",
+    "text": "Disease quantification\nSeverity of cercospora leaf spot in table beet"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#q-a",
+    "href": "2025/weeks/week09/slides.html#q-a",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "Q & A",
+    "text": "Q & A\nReplicate the R code from here"
+  },
+  {
+    "objectID": "2025/weeks/week09/page.html",
+    "href": "2025/weeks/week09/page.html",
+    "title": "🗓️ Week 9 - Self-supervised learning",
+    "section": "",
+    "text": "In this week, we will implement some of the self-supervised learning approaches for Earth Observation data. We will reproduce experiments from the Efficient Deep Learning EO workshop (IGARSS 2024).",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 09"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week09/page.html#lecture-slides",
+    "href": "2025/weeks/week09/page.html#lecture-slides",
+    "title": "🗓️ Week 9 - Self-supervised learning",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 09"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week09/page.html#practical-exercises",
+    "href": "2025/weeks/week09/page.html#practical-exercises",
+    "title": "🗓️ Week 9 - Self-supervised learning",
+    "section": "Practical exercises",
+    "text": "Practical exercises\nSelect a track relevant for your research:\n\nIGARSS 2024 Self-supervised Learning\nTrain a recurrent neural network with PyTorch Lightning",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 09"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week09/page.html#required-reading",
+    "href": "2025/weeks/week09/page.html#required-reading",
+    "title": "🗓️ Week 9 - Self-supervised learning",
+    "section": "📚 Required reading",
+    "text": "📚 Required reading\n\nStand-Alone Self-Attention in Vision Models",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 09"
+    ]
+  },
+  {
     "objectID": "2025/weeks/week08/slides.html#introduction-1",
     "href": "2025/weeks/week08/slides.html#introduction-1",
     "title": "🗓️ Week 6soil moisture from SAR",
@@ -1332,5 +1467,40 @@
       "🗓️ Weeks",
       "Week 08"
     ]
+  },
+  {
+    "objectID": "2025/weeks/week09/lab.html",
+    "href": "2025/weeks/week09/lab.html",
+    "title": "🗓️ Week 03 - Practical exercise",
+    "section": "",
+    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nNoteAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2025/weeks/week09/page_13octubre.html",
+    "href": "2025/weeks/week09/page_13octubre.html",
+    "title": "🗓️ Week 9 - Self-supervised learning",
+    "section": "",
+    "text": "In this week, we will implement some of the self-supervised learning approaches for Earth Observation data. We will reproduce experiments from the Efficient Deep Learning EO workshop (IGARSS 2024)."
+  },
+  {
+    "objectID": "2025/weeks/week09/page_13octubre.html#lecture-slides",
+    "href": "2025/weeks/week09/page_13octubre.html#lecture-slides",
+    "title": "🗓️ Week 9 - Self-supervised learning",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides."
+  },
+  {
+    "objectID": "2025/weeks/week09/page_13octubre.html#practical-exercises",
+    "href": "2025/weeks/week09/page_13octubre.html#practical-exercises",
+    "title": "🗓️ Week 9 - Self-supervised learning",
+    "section": "Practical exercises",
+    "text": "Practical exercises\nSelect a track relevant for your research:\n\nIGARSS 2024 Self-supervised Learning\nTrain a recurrent neural network with PyTorch Lightning"
+  },
+  {
+    "objectID": "2025/weeks/week09/page_13octubre.html#required-reading",
+    "href": "2025/weeks/week09/page_13octubre.html#required-reading",
+    "title": "🗓️ Week 9 - Self-supervised learning",
+    "section": "📚 Required reading",
+    "text": "📚 Required reading\n\nStand-Alone Self-Attention in Vision Models"
   }
 ]
