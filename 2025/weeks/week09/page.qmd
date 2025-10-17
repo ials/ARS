@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Week 9   - Selfisupervised learning  "
+title: "🗓️ Week 9   - Self-supervised learning  "
 ---
 
 In this  week, we will implement some of the self-supervised learning approaches for Earth Observation data. We will reproduce experiments from the *Efficient Deep Learning EO workshop* (IGARSS 2024).
@@ -9,6 +9,8 @@ In this  week, we will implement some of the self-supervised learning approaches
 Click [here](https://drive.google.com/file/d/1OsJpx-eoXt49uuK0AaE6oMreyMXtafbW/view?usp=sharing) to view the slides.
 
 ## Practical exercises
+
+Select a track relevant for your research: 
 
 - [IGARSS 2024 Self-supervised Learning](https://github.com/HSG-AIML/IGARSS2023_EfficientDeepLearningEO/tree/main/03-ssl)
 
