@@ -95,7 +95,7 @@
     "href": "2025/weeks/week09/page.html",
     "title": "🗓️ Week 9 - Self-supervised learning",
     "section": "",
-    "text": "In this week, we will implement some of the self-supervised learning approaches for Earth Observation data. We will reproduce experiments from the Efficient Deep Learning EO workshop (IGARSS 2024).",
+    "text": "In this week, we will implement either: (i) the self-supervised learning approaches for Earth Observation data. We will reproduce experiments from the Efficient Deep Learning EO workshop (IGARSS 2024); or (ii) a recurrent neural network",
     "crumbs": [
       "🗓️ Weeks",
       "Week 09"
