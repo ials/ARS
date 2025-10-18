@@ -2,7 +2,7 @@
 title: "🗓️ Week 9   - Self-supervised learning  "
 ---
 
-In this  week, we will implement some of the self-supervised learning approaches for Earth Observation data. We will reproduce experiments from the *Efficient Deep Learning EO workshop* (IGARSS 2024).
+In this  week, we will implement either: (i) the self-supervised learning approaches for Earth Observation data. We will reproduce experiments from the *Efficient Deep Learning EO workshop* (IGARSS 2024); or (ii) [a recurrent neural network](https://medium.com/data-science/animated-rnn-lstm-and-gru-ef124d06cf45)
 
 ## 👨‍🏫 Lecture Slides 
 
