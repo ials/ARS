@@ -16,6 +16,11 @@ Select a track relevant for your research:
 
 - [Train a recurrent neural network with PyTorch Lightning](https://lightning.ai/lightning-ai/studios/train-a-recurrent-neural-network-with-pytorch-lightning?view=public&section=featured)
 
+## 👨‍🏫 Informe No. 2
+
+Students replicate their reference study *using their own data*.
+
+
 ## 📚  Required reading
 
 - [Stand-Alone Self-Attention in Vision Models](https://proceedings.neurips.cc/paper/2019/file/3416a75f4cea9109507cacd8e2f2aefc-Paper.pdf)
