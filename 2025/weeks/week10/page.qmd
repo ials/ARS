@@ -1,22 +1,22 @@
 ---
-title: "🗓️ Week 10 - Introduction to Deep Learning "
+title: "🗓️ Week 10 - Vision Transformers "
 ---
 
-In this  week, we will learn basic *Deep Learning (DL)* concepts & techniques.
+In this  week, we will get familiar to *Vision Transformers* concepts & techniques, a state-of-the-art technique for  computer vision and remote sensing tasks.
 
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](https://drive.google.com/file/d/1eK3ptCDU4e4tEwFKp_9xF1sl-b9jTz4D/view?usp=sharing) to view the slides.
+Click [here](https://drive.google.com/file/d/1hPY6L8Z-cRCqveZbLdr0TQZo_SSsamvU/view?usp=sharing) to view the slides.
 
 ## Practical exercises
 
-- [Introduction to DL with PyTorch](https://github.com/jtao/shortcourses/tree/master/Intro_to_PyTorch)
+- [Transformers for Computer Vision](https://lightning.ai/docs/pytorch/stable/notebooks/course_UvA-DL/11-vision-transformer.html)
 
-## Reading
+## Required ading
 
-Make sure you complete this reading before 5th February 2025. In your PRA notebook, summarize what have you learned from it.
+[An image is worth 16x16 words](https://openreview.net/pdf?id=YicbFdNTTy)
 
-- [Mathematics of Neural Networks](https://drive.google.com/file/d/1rUR_G6MbaMAh6qXwz4zn--a1zVlPJAPm/view?usp=sharing)
+
 
 
