@@ -7,7 +7,7 @@ In this  week, we will get familiar with *Vision Transformers*, a state-of-the-a
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](https://drive.google.com/file/d/1hPY6L8Z-cRCqveZbLdr0TQZo_SSsamvU/view?usp=sharing) to view the slides.
+Click [here](https://drive.google.com/file/d/180xwVtt_wqrjXcdoGQOUaPsuA6EbcTOw/view?usp=sharing) to view the slides.
 
 ## Practical exercises
 
