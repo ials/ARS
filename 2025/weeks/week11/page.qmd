@@ -12,7 +12,7 @@ In this  week, we will get to know  *foundation models* for Earth Observation da
 
 ## Practical
 
-Check [this repository](https://github.com/zhu-xlab/SSL4EO-S12)
+Check [this repository](https://github.com/zhu-xlab/SSL4EO-S12) as well as [this one](https://github.com/AABNassim/spectral_earth).
 
 ## Reading
 
