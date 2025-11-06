@@ -1,5 +1,49 @@
 [
   {
+    "objectID": "2025/weeks/week12/page.html",
+    "href": "2025/weeks/week12/page.html",
+    "title": "🗓️ Week 12 - Tessera foundation model embeddings",
+    "section": "",
+    "text": "In this week, we will explore the potential of an interactive embedding classifier based on the Tessera foundation model.\nTESSERA was trained on over 3000 MGRS S1-S2 tiles distributed globally from 2017 to 2024.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week12/page.html#lecture",
+    "href": "2025/weeks/week12/page.html#lecture",
+    "title": "🗓️ Week 12 - Tessera foundation model embeddings",
+    "section": "👨‍🏫 Lecture",
+    "text": "👨‍🏫 Lecture\nTemporal Embeddings of Surface Spectra for Earth Representation and Analysis (TESSERA)",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week12/page.html#practical",
+    "href": "2025/weeks/week12/page.html#practical",
+    "title": "🗓️ Week 12 - Tessera foundation model embeddings",
+    "section": "Practical",
+    "text": "Practical\n\nInstall and run the tool available here to classify land cover in your region of interest.\nDiscuss with your peers advantages and drawbacks of the tool.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week12/page.html#reading",
+    "href": "2025/weeks/week12/page.html#reading",
+    "title": "🗓️ Week 12 - Tessera foundation model embeddings",
+    "section": "Reading",
+    "text": "Reading\nTESSERA: Precomputed FAIR Global Pixel Embeddings for Earth Representation and Analysis",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 12"
+    ]
+  },
+  {
     "objectID": "2025/weeks/week11/page.html",
     "href": "2025/weeks/week11/page.html",
     "title": "🗓️ Week 11 - Earth Foundation Models",
@@ -1699,5 +1743,40 @@
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Q & A",
     "text": "Q & A\nReplicate the R code from here"
+  },
+  {
+    "objectID": "2025/weeks/week12/old_page.html",
+    "href": "2025/weeks/week12/old_page.html",
+    "title": "🗓️ Week 12 - Tessera foundation model embeddings",
+    "section": "",
+    "text": "In this week, we will explore the potential of an interactive embedding classifier based on the Tessera foundation model."
+  },
+  {
+    "objectID": "2025/weeks/week12/old_page.html#task-1",
+    "href": "2025/weeks/week12/old_page.html#task-1",
+    "title": "🗓️ Week 12 - Tessera foundation model embeddings",
+    "section": "👨‍🏫 Task 1",
+    "text": "👨‍🏫 Task 1\nWatch the tutorial CNN in Deep Learning"
+  },
+  {
+    "objectID": "2025/weeks/week12/old_page.html#task-2",
+    "href": "2025/weeks/week12/old_page.html#task-2",
+    "title": "🗓️ Week 12 - Tessera foundation model embeddings",
+    "section": "👨‍🏫 Task 2",
+    "text": "👨‍🏫 Task 2\nBuild a convolutional neural network from scratch to classify images into two categories. For such a task, follow each step from this tutorial\n\nYou can download the Kaggle Cats and Dogs Dataset from here."
+  },
+  {
+    "objectID": "2025/weeks/week12/old_page.html#assignment",
+    "href": "2025/weeks/week12/old_page.html#assignment",
+    "title": "🗓️ Week 12 - Tessera foundation model embeddings",
+    "section": "Assignment",
+    "text": "Assignment\nMake sure you complete both tasks before 12th February 2025. In your PRA notebook, summarize what have you learned from both of them."
+  },
+  {
+    "objectID": "2025/weeks/week12/old_page.html#reading",
+    "href": "2025/weeks/week12/old_page.html#reading",
+    "title": "🗓️ Week 12 - Tessera foundation model embeddings",
+    "section": "Reading",
+    "text": "Reading\nTen deep learning techniques to address small data problems with remote sensing"
   }
 ]
