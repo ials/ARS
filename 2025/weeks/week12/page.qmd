@@ -1,32 +1,27 @@
 ---
-title: "🗓️ Week 4  - CNNs for image classification"
+title: "🗓️ Week 12  -  Tessera foundation model embeddings  "
 ---
 
-In this  week, you have to complete two main tasks.
+In this  week, we will explore the potential of an *interactive  embedding classifier* based on the Tessera foundation model.
+
+TESSERA was trained on over 3000 MGRS S1-S2 tiles distributed globally from 2017 to 2024.
+
+![](figures/Tessera.png)
 
 
-## 👨‍🏫 Task 1
+## 👨‍🏫 Lecture
 
-Watch the tutorial [CNN in Deep Learning](https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network)
-
-![](figures/CNNDL.png)
+[Temporal Embeddings of Surface Spectra for Earth Representation and Analysis (TESSERA)](https://github.com/ucam-eo/tessera)
 
 
-## 👨‍🏫 Task 2
+## Practical
 
-Build a convolutional neural network from scratch to classify images into two categories. For such a task, follow each step from this [tutorial](https://thedatafrog.com/en/articles/dogs-vs-cats/)
+- Install and run the tool available [here](https://github.com/ucam-eo/tessera-interactive-map) to classify land cover in your region of interest.
 
-![](figures/dogs_vs_cats.png)
-
-You can download the *Kaggle Cats and Dogs Dataset* [from here](https://www.microsoft.com/en-us/download/details.aspx?id=54765).
-
-## Assignment
-
-Make sure you complete both tasks before 12th February 2025. In your PRA notebook, summarize what have you learned from both of them.
+- Discuss with your peers advantages and drawbacks of the tool.
 
 ## Reading
 
-Read (and take notes) of the article [*Ten deep learning techniques to address small data problems with
-remote sensing*](https://drive.google.com/file/d/1wGEP-apFKjtBe5XdjpRy9wgtLgpyxTJ1/view?usp=sharing)
+[*TESSERA: Precomputed FAIR Global Pixel Embeddings for Earth Representation and Analysis*](https://arxiv.org/abs/2506.20380)
 
 
