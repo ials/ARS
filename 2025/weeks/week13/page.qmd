@@ -1,27 +1,23 @@
 ---
-title: "🗓️ Week 13 - Deep Nets for Earth Observation "
+title: "🗓️ Week 13 - Prithvi 2.0 "
 ---
 
-In this  week, we will see a  PyTorch implementation of a Convolutional Neural Network for semantic segmentation of aerial images.
+In this  week, we will get familiar with Prithvi 2.0, another multitemporal Foundation Model for Earth Observation, built jointly by IBM and NASA. 
 
 
-## 👨‍🏫 Theory
+## 👨‍🏫 Lecture
 
-[Slides](https://drive.google.com/file/d/1-aTASj7l8WXNsVuOgYAEqzfe9V8jJeJi/view?usp=sharing)
+[Video lecture](https://www.youtube.com/watch?v=CB3FKtmuPI8)
 
-![](figures/DL4RS.png)
 
 
 ## 👨‍🏫 Practical
 
-Build a convolutional neural network  for semantic segmentation of urban land cover from orthoimages. Replicate [this Colab notebook](https://colab.research.google.com/drive/1xnZDpnejdhGjENL5JiaohJIS7n3oAPel?usp=sharing)
+Complete your experiments to replicate a deep learning study for your *Informe No. 2*
 
-![](figures/epoch4_10.png)
-
-Make sure you complete the practical before 19th February 2025. In your PRA notebook, summarize what have you learned.
 
 ## Reading
 
-To be defined.
+- [Prithvi-EO-2.0: A Multi-Temporal Foundation Model for EO Applications](https://ntrs.nasa.gov/api/citations/20240015391/downloads/RSE%20Prithvi%20Global.pdf?)
 
 
