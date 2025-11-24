@@ -7,7 +7,7 @@ In this  week, we will get familiar with *TerraMind* a large-scale generative mu
 
 ## 👨‍🏫 Theory
 
-[Slides](https://drive.google.com/file/d/1gdwd8fHSjPNNfdqg9pnii3I2t7hdaY6A/view?usp=sharing)
+[Video lecture](https://www.youtube.com/watch?v=yHRLtzT7R0Q)
 
 ![](figures/TerraMind.png)
 
