@@ -1,21 +1,26 @@
 ---
-title: "🗓️ Week 43 - Foundation Models for Earth Observation "
+title: "🗓️ Week 14 - TerraMind "
 ---
 
-In this  week, we will learn about Foundation Models and review its application  on remote sensing.
+In this  week, we will get familiar with *TerraMind* a large-scale generative multimodal deep learning model for EO. 
 
 
 ## 👨‍🏫 Theory
 
 [Slides](https://drive.google.com/file/d/1gdwd8fHSjPNNfdqg9pnii3I2t7hdaY6A/view?usp=sharing)
 
-![](figures/S2MAE.png)
+![](figures/TerraMind.png)
 
 
 ## 👨‍🏫 Practical
 
-Work on your *Informe No. 2*. Make sure to write a document which provides evidence about: (i) your understanding of the image processing & analysis techniques you applied; and (ii) your commitment to *PRA*.
+Work on your *Informe No. 2*. Make sure your document provides evidence about: (i) your understanding of the image processing & analysis techniques you applied; and (ii) your commitment to *reproducible research*.
 
 ![](figures/swim.png)
 
-Make sure you send via e-mail your *Informe No. 2* not later than  27th February 2025 at 11:59 pm. 
+Make sure you upload your *Informe No. 2* not later than  3rd December 2025 at 11:59 pm. 
+
+
+## 👨‍🏫 Reading
+
+[TerraMind: Large-Scale Generative Multimodality for Earth Observation](https://arxiv.org/pdf/2504.11171)
